@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Daniel/Documents/Unreal Projects/PreWhiteBoxDawn/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Daniel/Documents/Unreal Projects/PreWhiteBoxDawn/Content/WhiteBox.umap",
+				"C:/Users/Daniel/Documents/Unreal Projects/PreWhiteBoxDawn/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Daniel/Documents/Unreal Projects/PreWhiteBoxDawn/Content/Models/blackeneddawn.uasset",
+				"C:/Users/Daniel/Documents/Unreal Projects/PreWhiteBoxDawn/Content/_GENERATED/Daniel/Box_8B2D94FE.uasset",
+				"C:/Users/Daniel/Documents/Unreal Projects/PreWhiteBoxDawn/Content/_GENERATED/Daniel/CubeGridToolOutput_139891C2.uasset",
+				"C:/Users/Daniel/Documents/Unreal Projects/PreWhiteBoxDawn/Content/_GENERATED/Daniel/CubeGridToolOutput_BE8B3D0A.uasset",
+				"C:/Users/Daniel/Documents/Unreal Projects/PreWhiteBoxDawn/Content/_GENERATED/Daniel/CubeGridToolOutput_F36FABCC.uasset",
+				"C:/Users/Daniel/Documents/Unreal Projects/PreWhiteBoxDawn/Content/layoutD_BlackenedDawn.uasset",
+				"C:/Users/Daniel/Documents/Unreal Projects/PreWhiteBoxDawn/Content/layoutD_BlackenedDawn_Mat.uasset",
+				"C:/Users/Daniel/Documents/Unreal Projects/PreWhiteBoxDawn/Content/StarterContent/Materials/M_Basic_Wall.uasset",
+				"C:/Users/Daniel/Documents/Unreal Projects/PreWhiteBoxDawn/Content/_GENERATED/Daniel/Box_CD3697FC.uasset",
+				"C:/Users/Daniel/Documents/Unreal Projects/PreWhiteBoxDawn/Content/_GENERATED/Daniel/Box_F0064E26.uasset",
+				"C:/Users/Daniel/Documents/Unreal Projects/PreWhiteBoxDawn/Content/_GENERATED/Daniel/CubeGridToolOutput_2E76A901.uasset"
+			]
+		}
+	]
+}
